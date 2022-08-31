@@ -23,19 +23,22 @@ bootstrap,node.js,html5,javascript,express,git
 
 
 29-08-2022 8:00pm - Application now has started.
+![Api](./api.jpg )
 
-![Api](./api.jpg)
+version 2:30/8/2022: the server will take the information from API server, and will send the information to the react app
+
+![API](./API2.jpg)
 
 ## Credit and Collaborations
 https://react-bootstrap.github.io/forms/overview/
 
 Name of feature: React,node.js,express,API
 
-Estimate of time needed to complete: 4 hours
+Estimate of time needed to complete: 6 hours
 
 Start time: 3pm
 
-Finish time: 8pm
+Finish time: 11pm
 
-Actual time needed to complete: 5 hours
+Actual time needed to complete: 8 hours
 partner:monther altamimi
