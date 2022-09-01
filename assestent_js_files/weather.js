@@ -7,7 +7,7 @@ const axios = require("axios");
 
 
 async function getWetherHandler(req, res) {
-    console.log('enttered');
+    console.log('Weather data are in');
   let queryName = req.query.city;
   const URL = `https://api.weatherbit.io/v2.0/forecast/daily?city=${queryName}&key=${process.env.key}`;
 
